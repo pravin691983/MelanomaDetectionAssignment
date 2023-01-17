@@ -2,12 +2,6 @@
 
 > In this assignment, you will build a multiclass classification model using a custom convolutional neural network in TensorFlow.
 
-<p>
-<img src ="https://cdn.upgrad.com/UpGrad/temp/7afbce98-8ecc-41c6-96d8-981cba7d343f/Loan_image.png" alt='Figure 1'>
-<center> <b>Figure 1. Loan Data Set</b> </center> 
- </br>  
-</p>
-
 ## Table of Contents
 
 - [Overview Business Understanding](#overview-business-understanding)

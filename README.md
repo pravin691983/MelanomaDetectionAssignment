@@ -89,7 +89,7 @@ Based on our analysis choose a best multiclass classification model using a cust
 - Initially we tried without the ImageDataGenerator which created data to over fit at high ratio
 - Then we introduced dropout and ImageDataGenerator which reduced the over fit
 
-### At last we tried Batch Normalization and Augumentation which really helped in carry forward bold text
+### At last we tried Batch Normalization and Augumentation which really helped in carry forward.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
